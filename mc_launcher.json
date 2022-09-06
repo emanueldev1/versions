@@ -1,3 +1,4 @@
 {
-    "v": "1.0.0"
+    "v": "1.0.1",
+    "r": "Resolvi bugs y errores que ocurrian al cerrar la app en medio de una descarga"
 }
